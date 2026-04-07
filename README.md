@@ -39,4 +39,4 @@ Developed by **Yossef Emara** during his time as a research assistant in Zhang L
 *MIT License*
 
 ## 🙌 Acknowledgment
-We gratefully acknowledge team contributions to this EEG machine learning project and Computational resources provided by the **Minnesota Supercomputing Institute (MSI)**. We also thank **three anonymous reviewers** for their valuable feedback in the peer review process for *Bioengineering* that helped improve the pipeline.   
+We gratefully acknowledge team contributions to this EEG machine learning project and computational resources provided by the **Minnesota Supercomputing Institute (MSI)**. We also thank **three anonymous reviewers** for their valuable feedback in the peer review process for *Bioengineering* that helped improve the pipeline.   

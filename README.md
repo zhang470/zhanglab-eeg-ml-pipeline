@@ -12,7 +12,7 @@ This project is actively maintained by **Zhang Lab** as a continuation and exten
 
 👉 https://github.com/yossefemara7/eeg_ml_pipeline  
 
-Developed by **Yossef Emara** during his time as a research assistant in Zhang Lab.
+The original version was developed by **Yossef Emara** during his time as a research assistant in Zhang Lab under the supervision of Dr. Yang Zhang.
 
 ## Key Features
 - ⚙️ Modular pipeline architecture  
@@ -23,11 +23,13 @@ Developed by **Yossef Emara** during his time as a research assistant in Zhang L
 
 ## Publication
 **Title:** "Configurable Modular EEG Classification Framework with Multiscale Features and Ensemble Learning: A Reproducible Evaluation for Schizophrenia Detection"  
-**Authors:** Xinran Han*†, Yossef Emara*†, Alice Zhang, Yi Lin, & Yang Zhang  
-> *†Co-first authors  
-> Full citation in APA style (Open access article):
-Han, X., Emara, Y., Zhang, A., Lin, Y., & Zhang, Y. (2026). Configurable Modular EEG Classification Framework with Multiscale Features and Ensemble Learning: A Reproducible Evaluation for Schizophrenia Detection. Bioengineering, 13(4), 430. https://doi.org/10.3390/bioengineering13040430
->
+**Authors:** Xinran Han*†, Yossef Emara*†, Alice Zhang, Yi Lin, & Yang Zhang  (*†Co-first authors) 
+
+__Full citation in APA style (Open access article):__
+> Han, X., Emara, Y., Zhang, A., Lin, Y., & Zhang, Y. (2026). Configurable Modular EEG Classification Framework with Multiscale Features and Ensemble Learning: A Reproducible Evaluation for Schizophrenia Detection. Bioengineering, 13(4), 430. https://doi.org/10.3390/bioengineering13040430
+
+*Author Contributions*
+> **Conceptualization**, Y.Z.; **methodology**, Y.E., X.H., and Y.Z.; **software**, Y.E., Y.Z., and X.H.; **validation**, X.H., A.Z., and Y.L.; **formal analysis**, Y.E., and X.H.; **investigation**, Y.E., and X.H.; **resources**, Y.Z.; **data curation**, Y.Z.; **writing—original draft preparation, Y.E., X.H., and Y.Z.**; **writing—review and editing**, X.H., A.Z., Y.L., and Y.Z.; **visualization**, Y.E., and X.H.; **revision**, X.H., A.Z, Y.L., Y.Z.; **supervision**, Y.Z.; **project administration**, Y.Z.; **funding acquisition**, Y.Z. 
 
 ## Contact
 **Prof. Yang Zhang**, 📧 zhanglab@umn.edu  
